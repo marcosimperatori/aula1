@@ -1,0 +1,12 @@
+{
+    "name": "marcos/aula1",
+    "description": "Projeto para fins academicos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "marcos",
+            "email": "marcosimperatori@gmail.com"
+        }
+    ],
+    "require": {}
+}
